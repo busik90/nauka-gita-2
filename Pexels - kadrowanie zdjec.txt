@@ -1,5 +1,5 @@
 
-1) Orygina³:
+1) Oryginal:
 
 https://images.pexels.com/photos/348097/pexels-photo-348097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
@@ -7,5 +7,4 @@ https://images.pexels.com/photos/348097/pexels-photo-348097.jpeg?auto=compress&c
 
 https://images.pexels.com/photos/348097/pexels-photo-348097.jpeg?fit=crop&w=1280&h=720
 
-Trzeba zmieniæ koñcówkê na: "fit=crop&w=1280&h=720". Podajemy porz¹dane wartoœci.
-"
+Trzeba zmienic koncowke na: "fit=crop&w=1280&h=720". Podajemy porzadane wartosci.
